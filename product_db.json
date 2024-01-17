@@ -1,0 +1,10 @@
+{
+  "Product": [
+    {
+      "Id": 1,
+      "product name": "Fan",
+      "company": "orient",
+      "price": 5000
+    }
+  ]
+}
